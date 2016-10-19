@@ -1,0 +1,70 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,black_jpg,stand1_jpg,stand2_jpg,stand3_jpg,stand4_jpg,walk1_jpg,walk2_jpg,walk3_jpg,walk4_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "black_jpg",
+			"type": "image",
+			"url": "assets/black.jpg"
+		},
+		{
+			"name": "stand1_jpg",
+			"type": "image",
+			"url": "assets/stand1.jpg"
+		},
+		{
+			"name": "stand2_jpg",
+			"type": "image",
+			"url": "assets/stand2.jpg"
+		},
+		{
+			"name": "stand3_jpg",
+			"type": "image",
+			"url": "assets/stand3.jpg"
+		},
+		{
+			"name": "stand4_jpg",
+			"type": "image",
+			"url": "assets/stand4.jpg"
+		},
+		{
+			"name": "walk1_jpg",
+			"type": "image",
+			"url": "assets/walk1.jpg"
+		},
+		{
+			"name": "walk2_jpg",
+			"type": "image",
+			"url": "assets/walk2.jpg"
+		},
+		{
+			"name": "walk3_jpg",
+			"type": "image",
+			"url": "assets/walk3.jpg"
+		},
+		{
+			"name": "walk4_jpg",
+			"type": "image",
+			"url": "assets/walk4.jpg"
+		}
+	]
+}
